@@ -1,4 +1,4 @@
-ireport-fork
+ireport-fork for Version 5.5.1.release
 ============
 
 IRepot (Jasper designer) fork from their SVN public source
